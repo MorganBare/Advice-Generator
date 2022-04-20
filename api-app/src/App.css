@@ -11,7 +11,7 @@
 
 @media screen and (min-width:600px){
   .App {
-    padding: 2em 2em 3.5em 2em;
+    padding: 2em 2em 4em 2em;
     max-width: 550px;
   }
 }
