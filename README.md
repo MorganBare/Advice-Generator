@@ -17,7 +17,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![](./api-app/src/images/ezgif.com-gif-maker(1).gif)
+![](https://user-images.githubusercontent.com/36883730/164895643-e32517fe-5c2e-4b8c-bf59-2f1150955c82.gif)
 
 ### Links
 
